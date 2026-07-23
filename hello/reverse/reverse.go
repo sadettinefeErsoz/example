@@ -13,3 +13,4 @@ func String(s string) string {
 	}
 	return string(r)
 }
+// test icin eklenen yorum satiri
