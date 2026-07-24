@@ -14,4 +14,5 @@ func ExampleString() {
 	fmt.Println(reverse.String("hello"))
 	// Output: olleh
 	fmt.Print("burada bir değişiklik yapıyorum şuand a ")
+	fmt.Print("deneme degisiikliği")
 }
