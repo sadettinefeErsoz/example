@@ -15,4 +15,5 @@ func ExampleString() {
 	// Output: olleh
 	fmt.Print("burada bir değişiklik yapıyorum şuand a ")
 	fmt.Print("deneme degisiikliği")
+	fmt.Print("kontrol")
 }
